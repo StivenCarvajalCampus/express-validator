@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "express-validator": "7.0.1",
+    "node": "20.5.1"
+  }
+}
